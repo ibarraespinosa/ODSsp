@@ -1,0 +1,10 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 3
+    Nome_Municipio Char (50) ;
+    Num_Muni Integer ;
+    Área_ha Decimal (20, 2) ;
